@@ -1,0 +1,34 @@
+_repo: Contemporary-American-LiteratureBibliographies-and-Study-Outlines_18625
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Manly, John Matthews
+    birthdate: 1865
+    deathdate: 1940
+    gutenberg_agent_id: '8157'
+    url: http://www.gutenberg.org/2009/agents/8157
+  - agent_name: Rickert, Edith
+    birthdate: 1871
+    deathdate: 1938
+    gutenberg_agent_id: '8158'
+    url: http://www.gutenberg.org/2009/agents/8158
+description: ''
+gutenberg_issued: '2006-06-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18625'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American literature -- Outlines, syllabi, etc.'
+- !lcc 'PS'
+- !lcsh 'American literature -- 20th century -- Bio-bibliography'
+title: 'Contemporary American Literature
+
+  Bibliographies and Study Outlines'
+url: http://www.gutenberg.org/ebooks/18625

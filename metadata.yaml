@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '8158'
     url: http://www.gutenberg.org/2009/agents/8158
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18625#Contemporary-American-LiteratureBibliographies-and-Study-Outlines
 gutenberg_issued: '2006-06-19'
 gutenberg_type: Text
 identifiers:
